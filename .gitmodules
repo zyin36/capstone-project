@@ -1,0 +1,6 @@
+[submodule "tmp_visualizer"]
+	path = tmp_visualizer
+	url = https://github.com/DerekTheCodingStudent/tmp_visualizer.git
+[submodule "project"]
+	path = project
+	url = https://github.com/daniel10015/project.git
